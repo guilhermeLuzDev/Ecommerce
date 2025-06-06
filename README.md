@@ -1,4 +1,4 @@
-# ecommerce
+# shopDeGue
 
 Este é um projeto de e-commerce desenvolvido em Next.js.
 
