@@ -6,7 +6,7 @@ Este é um projeto de e-commerce desenvolvido em Next.js.
 
 1. **Clone o repositório:**
    ```powershell
-   git clone https://github.com/guilhermeLuzDev/Web-2.git
+   git clone https://github.com/guilhermeLuzDev/Ecommerce.git
    cd ecommerce
    ```
 
